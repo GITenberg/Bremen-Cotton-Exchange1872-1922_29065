@@ -1,0 +1,32 @@
+_repo: Bremen-Cotton-Exchange1872-1922_29065
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Uhte, Ch. F. C.
+    gutenberg_agent_id: '33675'
+    url: http://www.gutenberg.org/2009/agents/33675
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cramer, Andreas Wilhelm
+    birthdate: 1855
+    gutenberg_agent_id: '33674'
+    url: http://www.gutenberg.org/2009/agents/33674
+description: ''
+gutenberg_issued: '2009-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29065'
+  lccn: ca28000215
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cotton trade'
+- !lcsh 'Bremen (Germany). Baumwollbörse'
+- !lcc 'HD'
+title: Bremen Cotton Exchange, 1872/1922
+url: http://www.gutenberg.org/ebooks/29065
